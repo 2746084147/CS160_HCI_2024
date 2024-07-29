@@ -7,9 +7,9 @@ Proudly presented to you by Zhuo Diao, Chaoer Ren, Yijun Shen, Wenjia Shi and Yu
 
 ## What we have published:
 
-  1.Source code
-  2.Final report
-  3.Presentation powerpoint
-  4.Structured interviews
-  5.Demo
-  6.Concept Video
+1. Source code
+2. Final report
+3. Presentation powerpoint
+4. Structured interviews
+5. Demo
+6. Concept Video
